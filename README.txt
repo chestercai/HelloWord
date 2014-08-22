@@ -1,4 +1,4 @@
 HelloWord
 =========
-the first time use github repository
+the first time to use github repository
 HelloWord
